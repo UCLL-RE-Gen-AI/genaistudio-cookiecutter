@@ -30,7 +30,7 @@ To create a new Python project with this template:
 2. In the directory where you want to create your new repository, run the following command to apply the Poetry Cookiecutter template:
 
    ```sh
-   cruft create -f https://github.com/UCLL-DataFocus/genaistudio-cookiecutter
+   cruft create -f https://github.com/UCLL-RE-Gen-AI/genaistudio-cookiecutter
    ```
 
 ### Optional: Automatic GitHub Repository Creation
